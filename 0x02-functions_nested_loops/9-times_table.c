@@ -4,6 +4,7 @@
  * 
  * Return: returns nothing
  */
+
 void times_table(void)
 {
 	int digit, mult, result;
