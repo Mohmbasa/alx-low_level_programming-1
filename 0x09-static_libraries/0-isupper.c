@@ -13,3 +13,4 @@ int _isupper(int c)
 	else
 		return (0);
 }
+// so we are partners for the ALX simple shell project and i cant seem to reach you. if you do not wish to collabrate kindly send me your email so that i can unpair. you can reach me on my whatsapp +254748807530
